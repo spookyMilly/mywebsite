@@ -29,6 +29,7 @@ module.exports = {
       vk: '#'
     }
   },
+  pathPrefix: `/blog`,
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',

@@ -1,13 +1,21 @@
 ---
-title: "About me"
+title: "About Theodora"
 layout: page
 path: "/about"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Hi there 💓my name is Theodora, or simply Theo.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+I study Computer Science at the <a href="https://www.h-da.com/" target="_blank">University of Applied Sciences in Darmstadt, Germany</a> and work as a Front-End Developer. I started creating websites 10 years ago, when Beepworld and blinking gifs were all the rage. I love designing things and enjoy reading about psychology and user experience.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+In my freetime, I enjoy cooking, cuddling my dog, playing video games, doing some yoga and practicing my creative skills such as painting and sketching. 
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Currently, my skillset includes
+- Angular
+- ReactJS
+- HTML & CSS
+- JavaScript
+- CSS Frameworks
+- Adobe Ai, Ps and Xd
+- Iconography
+- creating various illustrations

@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://spookymilly.github.io/blog/',
     title: 'Blog by Theodora Milona',
-    subtitle: '25 year old front-end dev from Germany sharing thoughts on design & UX. 💖',
+    subtitle: '25 year old front-end dev from Germany sharing thoughts on design, UX and other things 💖',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [

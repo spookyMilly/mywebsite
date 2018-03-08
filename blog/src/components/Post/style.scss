@@ -15,8 +15,7 @@
             color: $color-base;
             &:hover,
             &:focus {
-                color: $color-base;
-                border-bottom: 1px solid $color-base;
+                color: $color-primary;
             }
         }
     }
@@ -43,7 +42,8 @@
                 text-transform: uppercase;
                 &:hover,
                 &:focus {
-                    color: $color-primary;
+                    color: white;
+                    background-color: $color-primary;
                 }
             }
         }

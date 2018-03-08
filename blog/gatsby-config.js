@@ -21,12 +21,7 @@ module.exports = {
     ],
     author: {
       name: 'Theodora Milona',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#'
+      email: 'theodora.milona@gmx.de'
     }
   },
   pathPrefix: `/blog`,

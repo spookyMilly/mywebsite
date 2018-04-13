@@ -19,3 +19,5 @@ Currently, my skillset includes
 - Adobe Ai, Ps and Xd
 - Iconography
 - creating various illustrations
+- basic understanding about databases & backend development
+- some C++ and Java

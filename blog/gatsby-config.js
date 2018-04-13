@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://spookymilly.github.io/blog/',
     title: 'Blog by Theodora Milona',
-    subtitle: '25 year old front-end dev from Germany sharing thoughts on design, UX and other things 💖',
+    subtitle: '25 year old front-end engineer from Germany sharing thoughts on design, UX and other things 💖',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -13,15 +13,11 @@ module.exports = {
       {
         label: 'About me',
         path: '/about/'
-      },
-      {
-        label: 'Illustrations',
-        path: '/illustrations/'
       }
     ],
     author: {
       name: 'Theodora Milona',
-      email: 'theodora.milona@gmx.de'
+      email: 'theo.milona@gmx.de'
     }
   },
   pathPrefix: `/blog`,

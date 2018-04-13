@@ -101,9 +101,13 @@ a {
     }
 }
 
-b,
-strong {
-    font-weight: 500;
+mark {
+    background-color: #fff2ac;
+    background-image: linear-gradient(to right, #ffe359 0%, #fff2ac 100%);
+}
+
+b, strong {
+    font-weight: bold;
 }
 
 ul {

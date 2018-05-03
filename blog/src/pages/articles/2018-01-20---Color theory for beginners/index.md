@@ -2,7 +2,7 @@
 title: Color Theory for Beginners
 date: "2018-01-20T22:40:32.169Z"
 layout: post
-draft: false
+draft: true
 path: "/posts/color-theory-for-beginners"
 category: "Webdesign"
 tags:

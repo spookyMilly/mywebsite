@@ -1,8 +1,8 @@
 ---
-title: Good Design
+title: Creating beautiful designs
 date: "2018-03-01T22:40:32.169Z"
 layout: post
-draft: false
+draft: true
 path: "/posts/good-design"
 category: "Webdesign"
 tags:

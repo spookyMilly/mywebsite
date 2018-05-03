@@ -13,7 +13,7 @@ I study Computer Science at the <a href="https://www.h-da.com/" target="_blank">
 I love designing and coding things and enjoy reading about psychology, science and user experience. 
 
 In my freetime, I enjoy playing video games, doing yoga and practicing my creative skills such as painting and sketching. I love to share knowledge on design topics and frontend development. 
-Just recently, I published a study about women in Computer Science in the <a target="_blank" href="https://jaxenter.de/ausgaben/java-magazin-2-18">German Java magazine</a>.
+Just recently, I published a study about women in Computer Science in the <a target="_blank" href="https://entwickler.de/leseproben/devops-diversity-579824614.html">German Java magazine</a> (reading extract).
 
 Currently, my skillset includes
 - Angular

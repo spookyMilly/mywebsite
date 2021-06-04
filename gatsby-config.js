@@ -2,7 +2,7 @@ const copyright = '© TM ' + `${new Date().getFullYear()}`;
 
 module.exports = {
     siteMetadata: {
-        title: 'tm',
+        title: 'another website on the internet',
         subtitle: 'Hello! I am Theo, a frontend developer in love with React, Gatsby and CSS.',
         copyright: copyright,
         siteUrl: `https://spookymilly.github.io/`,

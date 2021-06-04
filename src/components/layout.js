@@ -1,12 +1,13 @@
 import React from "react"
 import { Link } from "gatsby"
 
-const Layout = ({ location, title, children }) => {
+const Layout = ({ title, children }) => {
     return (
         <div
             style={{
-                marginLeft: `auto`,
-                marginRight: `auto`,
+                marginLeft: '2em',
+                marginRight: 'auto',
+                marginTop: '5%'
             }}
         >
             <header>
@@ -24,9 +25,9 @@ const Layout = ({ location, title, children }) => {
             </header>
             <main>{children}</main>
             <footer>
-                © {new Date().getFullYear()}, Built with
+                © 2019 - {new Date().getFullYear()}, Built with
                 {` `}
-                <a href="https://www.gatsbyjs.org">Gatsby</a>
+                <a href="https://www.gatsbyjs.org">Gatsby</a> &#9829;
             </footer>
         </div>
     )
